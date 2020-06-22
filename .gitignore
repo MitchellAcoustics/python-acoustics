@@ -56,3 +56,12 @@ _build
 .ipynb_checkpoints
 
 temp
+.vscode/settings.json
+.idea/misc.xml
+.idea/modules.xml
+.idea/other.xml
+.idea/python-acoustics.iml
+.idea/vcs.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.vscode/launch.json
+.vscode/python-acoustics_workspace.code-workspace
